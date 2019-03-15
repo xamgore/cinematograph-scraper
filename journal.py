@@ -1,3 +1,4 @@
+#!/usr/bin/env -S pipenv run python
 from itertools import chain
 
 from bs4 import BeautifulSoup, Tag

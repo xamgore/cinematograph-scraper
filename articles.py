@@ -1,3 +1,4 @@
+#!/usr/bin/env -S pipenv run python
 import time
 
 from bs4 import BeautifulSoup

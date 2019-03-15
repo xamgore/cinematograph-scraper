@@ -1,3 +1,4 @@
+#!/usr/bin/env -S pipenv run python
 from collections import defaultdict
 
 import bs4
